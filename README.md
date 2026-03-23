@@ -8,9 +8,7 @@
 
 Este componente nace en nuestro **Lab** como una solución para negocios que operan con lanzamientos programados, ofertas flash o eventos recurrentes.
 
----
-
-## 🚀 ¿Qué hace pro-cyclical-clock?
+¿Qué hace pro-cyclical-clock?
 
 Este plugin permite configurar ventanas de tiempo dinámicas que se activan y reinician solas. Es ideal para:
 
@@ -19,7 +17,7 @@ Este plugin permite configurar ventanas de tiempo dinámicas que se activan y re
 * **Webs de Eventos:** Automatiza la espera para webinars o sesiones en vivo recurrentes sin intervención manual.
 * **Gestión de Urgencia:** Mejora la conversión en e-commerce mostrando el tiempo restante para el próximo "drop" de stock.
 
-## ✨ Características Principales
+Características Principales
 
 * **Configuración de Periodicidad:** Elige días de la semana y rangos horarios específicos.
 * **Automatización Total:** Una vez configurado, el reloj se reinicia solo al finalizar el ciclo.
@@ -27,7 +25,7 @@ Este plugin permite configurar ventanas de tiempo dinámicas que se activan y re
 * **Ligero y Rápido:** Optimizado para no afectar la velocidad de carga (WPO) de tu sitio WordPress.
 * **Personalización Visual:** Adaptable al diseño de tu marca desde el panel de ajustes.
 
-## 📦 Instalación y Descarga
+Instalación y Descarga
 
 ### 1. Desde el Lab de Abstracta digital
 Para obtener la versión estable y ver ejemplos de uso real, visita nuestra sección de experimentos:
@@ -39,14 +37,14 @@ Para obtener la versión estable y ver ejemplos de uso real, visita nuestra secc
 3. Selecciona el archivo, instala y haz clic en **Activar**.
 4. Configura tus ciclos horarios en el menú **Ajustes > Pro-Cyclical Clock**.
 
-## 🧪 Sobre el Lab de Abstracta digital
+Sobre el Lab de Abstracta digital
 
 En **Abstracta digital** exploramos soluciones técnicas que rompen con lo convencional. Este plugin es parte de nuestro ecosistema de herramientas abiertas diseñadas para mejorar el rendimiento y la narrativa digital.
 
 Si te gusta este proyecto o quieres ver qué más estamos cocinando, pásate por aquí:
 🔗 [https://abstracta.digital/](https://abstracta.digital/)
 
-## 📄 Licencia
+Licencia
 
 Este proyecto está bajo la Licencia MIT. Eres libre de usarlo, modificarlo y distribuirlo en tus proyectos comerciales o personales.
 
